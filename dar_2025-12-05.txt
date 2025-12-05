@@ -1,0 +1,7 @@
+
+Date: 2025-12-05
+Task: GA4 Data Collection
+Description: running py script to export previous GA4 data
+Status: In Progress
+Remarks: exported previous available data
+==================================================

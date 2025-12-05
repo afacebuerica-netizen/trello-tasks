@@ -1,0 +1,7 @@
+
+Date: 2025-12-05
+Task: Intrasite Traffic UTMs
+Description: Generating UTM links - Philippine Women
+Status: In Progress
+Remarks: done with realities/, psychology/, travel/, execu/
+==================================================
